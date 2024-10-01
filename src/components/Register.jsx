@@ -26,7 +26,7 @@ const Register = ({setShowRegister}) => {
      }
   return (
     
-           <div className="registerContainer">
+     <div className="registerContainer">
      <div className="logo">
           <Room />
           PINALOC
